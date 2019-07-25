@@ -1,0 +1,9 @@
+#header {
+    width: 85vw;
+    height: 10vh;
+    border: 5px, solid, steelblue;
+    border-radius: 10%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
